@@ -1,6 +1,5 @@
-## Spring Boot Api example
-* Se actualizo el tipo de empaquetado a .jar
-Rest Full Api para crear usuarios y modelos. 
+## Spring Boot Api
+Rest Full Api para crear usuarios 
  
 * Get All the user
 * Post a new user
